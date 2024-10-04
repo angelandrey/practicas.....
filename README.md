@@ -13,3 +13,7 @@
 # ejecucion
 ![image](https://github.com/user-attachments/assets/0f5b3796-a9be-4bf7-bf30-e583ad1c49ff)
 
+# Lista de numeros
+![image](https://github.com/user-attachments/assets/e743705b-ed78-432e-8412-2035997650ba)
+
+
